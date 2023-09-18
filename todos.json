@@ -1,0 +1,21 @@
+{
+  "data": {
+    "todos": [
+      {
+        "id": "df620fe1-623a-4b8c-aa41-c535a1ae93f1",
+        "title": "Learn HTML",
+        "isCompleted": false
+      },
+      {
+        "id": "ba07fa7f-0efb-4b6d-a603-299e7e08c1fe",
+        "title": "Learn CSS",
+        "isCompleted": false
+      },
+      {
+        "id": "86ba6b78-d99c-456a-afe6-64bab721166d",
+        "title": "Learn React",
+        "isCompleted": false
+      }
+    ]
+  }
+}
